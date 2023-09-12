@@ -1,0 +1,2 @@
+# geophysic-seminar
+my seminar
